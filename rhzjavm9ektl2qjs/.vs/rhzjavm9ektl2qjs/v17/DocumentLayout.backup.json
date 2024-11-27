@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwg35\\source\\repos\\rhzjavm9ektl2qjs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8339BEDE-BA39-477C-97BD-19ADFB34DE80}|rhzjavm9ektl2qjs.vcxproj|C:\\Users\\dwg35\\source\\repos\\rhzjavm9ektl2qjs\\rhzjavm9ektl2qjs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8339BEDE-BA39-477C-97BD-19ADFB34DE80}|rhzjavm9ektl2qjs.vcxproj|solutionrelative:rhzjavm9ektl2qjs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rhzjavm9ektl2qjs.cpp",
+              "DocumentMoniker": "C:\\Users\\dwg35\\source\\repos\\rhzjavm9ektl2qjs\\rhzjavm9ektl2qjs.cpp",
+              "RelativeDocumentMoniker": "rhzjavm9ektl2qjs.cpp",
+              "ToolTip": "C:\\Users\\dwg35\\source\\repos\\rhzjavm9ektl2qjs\\rhzjavm9ektl2qjs.cpp*",
+              "RelativeToolTip": "rhzjavm9ektl2qjs.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T16:26:44.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
